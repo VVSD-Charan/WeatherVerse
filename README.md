@@ -1,6 +1,6 @@
 # WeatherVerse
-# ✨ Excited to know about the people you love 😍, staying at a different country? But unable to communicate due to conflicting time zones 😥? 
-  Don't worry, you're just one click away from knowing the weather conditions of their place ❤️. Just use this website to know where-abouts whenever you get
+✨ Excited to know about the people you love, staying at a different country? But unable to communicate due to conflicting time zones 😥? 
+  Don't worry, you're just one click away from knowing the weather conditions of their place . Just use this website to know where-abouts whenever you get
  a thought about them even though you live thousands of miles away from them😄!
 
 This is a web based application developed for knowing current weather conditions in various places across the globe.
