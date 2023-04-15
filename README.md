@@ -1,5 +1,7 @@
 # WeatherVerse
-# ✨ Instant weather conditions of various cities is just a click away! ✨
+# ✨ Excited to know about the people you love 😍, staying at a different country? But unable to communicate due to conflicting time zones 😥? 
+#  Don't worry, you're just one click away from knowing the weather conditions of their place ❤️. Just use this website to know where-abouts whenever you get
+# a thought about them even though you live thousands of miles away from them😄!
 
 This is a web based application developed for knowing current weather conditions in various places across the globe.
 
@@ -7,12 +9,13 @@ This is a web based application developed for knowing current weather conditions
 ## Features and Functionalities 😃
 
 - Users can be able to find current weather conditions in various cities
-- 
+
 - User just has to search for their desired place and then user will be just one click away from knowing weather conditions in that location.
-- 
+
 - There are no restrictions in number of searches made per day.
 
 - Makes lives easy for people who want to know weather conditions of various places around globe. 
+
 
 ## About project description -
    
