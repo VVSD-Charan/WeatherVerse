@@ -1,5 +1,5 @@
 # WeatherVerse
-# ✨ Master the Weather with this Tool✨
+# ✨ Instant weather conditions of various cities is just a click away! ✨
 
 This is a web based application developed for knowing current weather conditions in various places across the globe.
 
@@ -7,8 +7,12 @@ This is a web based application developed for knowing current weather conditions
 ## Features and Functionalities 😃
 
 - Users can be able to find current weather conditions in various cities
+- 
 - User just has to search for their desired place and then user will be just one click away from knowing weather conditions in that location.
+- 
 - There are no restrictions in number of searches made per day.
+
+- Makes lives easy for people who want to know weather conditions of various places around globe. 
 
 ## About project description -
    
@@ -54,6 +58,6 @@ This is a web based application developed for knowing current weather conditions
 ## Tech Stack 💻
 - HTML
 - CSS
-- Rapidapi
-- Bootstrap
+- RapidAPI
+- BootStrap
 - JavaScript
