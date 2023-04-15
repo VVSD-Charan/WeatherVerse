@@ -6,15 +6,29 @@ This is a web based application developed for knowing current weather conditions
 
 ## Features and Functionalities 😃
 
-- User can be able to find current weather conditions in various cities
-- 
-- Has collection of many web pages including IIITDMJ college mian page and fest page,admin page,registraction,tecnhical events,non technical events, etc.
-- User can perticipate in any event with the help of registration.
-- It will help the all students to increase the scope of improvement in fest events 
+- Users can be able to find current weather conditions in various cities
+- User just has to search for their desired place and then user will be just one click away from knowing weather conditions in that location.
+- There are no restrictions in number of searches made per day.
 
 ## About project description -
    
+1.The project aims to create a weather website that uses RapidAPI to gather real-time weather data.
 
+2.HTML is used to create the structure of the website, including the layout and content.
+
+3.CSS is used to style the website, including the colors, fonts, and overall design.
+
+4.JavaScript is used to add interactivity to the website, including user input and dynamic content.
+
+5.Bootstrap is used as a front-end framework to create responsive and mobile-friendly designs.
+
+6.RapidAPI is used as an API service to gather weather data from multiple sources and display it on the website.
+
+7.The website displays current weather conditions, such as temperature, humidity, wind speed, and precipitation.
+
+8.The user can also search for weather conditions and forecasts for other locations around the world.
+
+9.Overall, the website provides a user-friendly and informative weather service that is accessible to anyone with an internet connection.
 
 
 ## Screenshots -
@@ -28,9 +42,10 @@ This is a web based application developed for knowing current weather conditions
 ### How to use :
 #### Give some examples of cities names:
      1.Jabalpur
-     2.Bengaluru
      
 ![image](https://user-images.githubusercontent.com/105978561/232224015-5f1909d5-ccc8-420e-863e-f5ccec15bb30.png)
+
+     2.Bengaluru
 
 ![image](https://user-images.githubusercontent.com/105978561/232224050-c7ca4fb7-d323-40da-9051-fb56c297742d.png)
 
