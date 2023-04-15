@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>WeatherVerse</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+
+    <nav>
+        <h1 id="heading"><a href="./index.html">WeatherVerse</a></h1>
+        <a href="./about.html" id="about">About this project</a>
+    </nav>
+
+    <div id="searchBox">
+        <form id="searchcity">
+            <input type="search" id="city" placeholder="Enter name of city">
+            <button type="submit" id="submit">Search</button>
+        </form>
+    </div>
+
+    <div id="weather-output">
+        
+
+        <ul id="weather-list">
+            <li>
+                <h1 id="table-heading">Weather updates of <span id="cityName"></span> is : </h1>
+            </li>
+            <li>
+                <h1>Temperature is <span id="temp"></span> degrees</h1>
+            </li>
+            <li>
+                <h1>Maximum temperature is <span id="max_temp"></span> degrees</h1>
+            </li>
+            <li>
+                <h1>Minimum temperature is <span id="min_temp"></span> degrees</h1>
+            </li>
+            <li>
+                <h1>Humidity is <span id="humidity"></span></h1>
+            </li>
+            <li>
+                <h1>Wind speed is <span id="wind_speed"></span></h1>
+            </li>
+            <li>
+                <h1>Wind degrees is <span id="wind_degrees"></span></h1>
+            </li>
+            <li>
+                <h1>Weather feels like <span id="feels_like"></span> degrees</h1>
+            </li>
+            <li>
+                <h1>Cloud percentage is <span id="cloud_pct"></span>%</h1>
+            </li>
+            <li>
+                <h1>Sunrise is at <span id="sunrise"></span></h1>
+            </li>
+            <li>
+                <h1>Sunset is at <span id="sunset"></span></h1>
+            </li>
+        </ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+<div id="contact-me">
+    <h1>Contact me via</h1>
+    <a href="https://in.linkedin.com/in/vvsd-charan-0938b81bb">LinkedIn</a>
+    <a href="mailto:20bcs244@iiitdmj.ac.in">Gmail</a>
+</div>
+
+<div id="copy-right">
+    ©️vvsdc. All rights reserved😶
+</div>
+
+</html>

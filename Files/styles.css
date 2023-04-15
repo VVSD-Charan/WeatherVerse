@@ -1,0 +1,92 @@
+#searchcity{
+    text-align: center;
+}
+#searchBox{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#heading{
+    padding: 30px 0 30px 30px;
+    display: inline-block;
+}
+#heading a{
+    text-decoration: none;
+    color: white;
+}
+#city{
+    padding: 10px;
+    border-radius: 10px;
+    height: 90px;
+    width: 450px;
+    font-size: 30px;
+}
+#submit{
+    padding: 12px;
+    border-radius: 10px;
+    background-color: greenyellow;
+    height: 90px;
+    width: 100px;
+}
+#table-heading{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+#about{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    right: 30px;
+    margin: 30px 0 20px 20px;
+}
+#info{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 60px;
+    font-size: 21px;
+    color : black;
+    padding: 20px;
+    background-color: white;
+    margin-bottom: 40px;
+}
+.question{
+    margin-top: 50px;
+}
+#contact-me{
+    margin-top: 10px;
+    background-color: black;
+    text-align: center;
+    padding: 30px;
+}
+#contact-me h1{
+    margin: 0 0 10px 0;
+    color: white;
+}
+#contact-me a{
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+}
+#weather-output{
+    background-color: white;
+    color: black;
+    padding: 30px;
+}
+#copy-right{
+    color: white;
+    text-align: center;
+}
+
+nav{
+    background-color: black;
+}
+body{
+   background-color: black;
+}
+ul{
+    text-align: center;
+    list-style: none;
+    font-size: 30px;
+}
+
