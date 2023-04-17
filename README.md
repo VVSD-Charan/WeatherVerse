@@ -37,6 +37,11 @@ This is a web based application developed for knowing current weather conditions
 
 9.Overall, the website provides a user-friendly and informative weather service that is accessible to anyone with an internet connection.
 
+##How to open?
+-First of all, you need to create an account in <a href="https://rapidapi.com/hub">Rapid API</a>
+-Then install the RapidAPI extension in VS Code and create new request by filling header information of both key and host provided in javaScript file.
+-Send the request and automatically data will be fetched.
+-Open the index.html file in live server to open the project.
 
 ## Screenshots -
 
